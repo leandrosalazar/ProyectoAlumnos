@@ -1,0 +1,137 @@
+﻿@{
+    ViewData["Title"] = "Alumnos";
+}
+
+<div  id="app">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="form-group">
+                <label>Nombre</label>
+
+                <input class="form-control" type="text" placeholder="Tu nombre"
+                       minlength="5" maxlength="20" required v-model="calificacion.nombre" />
+            </div>
+
+
+        </div>
+        <div class="col-md-5">
+
+            <div class="form-group">
+                <label>Nota</label>
+                <input class="form-control" v-on:keyup.enter="agregarcalificacion()" id="Nota" type="number" placeholder="Tu calificacion"
+                       minlength="1" maxlength="2" required v-model="calificacion.nota" />
+            </div>
+
+        </div>
+        <div class="col-md-2">
+
+            <button id="Enviar" style="margin-top:1.75em" class="btn btn-warning pull-right"
+                    :disabled="!calificacion.nombre || !calificacion.nota" v-on:click="agregarcalificacion();">
+                Agregar
+            </button>
+
+        </div>
+
+
+
+        <br />
+
+
+        <div v-if="p_error!=='' " class="alert alert-danger col-md-6">
+
+            {{p_error}}
+
+
+
+        </div>
+
+    </div>
+
+
+        <div class="row">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Nota</th>
+                        <th>Aprueba</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="item in Calificaciones">
+                        <td>{{item.nombre}}</td>
+                        <td>{{item.nota}}</td>
+                        <td>{{item.aprueba}}</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+            <br />
+            <h3> Alumnos Inteligentes : </h3>
+            <br />
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Nota</th>
+                        <th>Aprueba</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="item in c_aprobados">
+                        <td>{{item.nombre}}</td>
+                        <td>{{item.nota}}</td>
+                        <td>{{item.aprueba}}</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+            <br />
+            <h3> Alumnos Regulares : </h3>
+            <br />
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Nota</th>
+                        <th>Aprueba</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="item in c_desaprobados">
+                        <td>{{item.nombre}}</td>
+                        <td>{{item.nota}}</td>
+                        <td>{{item.aprueba}}</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <ul class="list-group">
+                        <li class="list-group-item"> Desaprobados con "1" : <span class="badge">{{Contador1}}</span></li>
+                        <li class="list-group-item"> Desaprobados con "2" : <span class="badge">{{Contador2}}</span></li>
+                        <li class="list-group-item"> Desaprobados con "3" : <span class="badge">{{Contador3}}</span></li>
+                        <li class="list-group-item"> Desaprobados con "4" : <span class="badge">{{Contador4}}</span></li>
+                        <li class="list-group-item"> Desaprobados con "5" : <span class="badge">{{Contador5}}</span></li>
+                        <li class="list-group-item"> Aprobados con "6" : <span class="badge">{{Contador6}}</span></li>
+                        <li class="list-group-item"> Aprobados con "7" : <span class="badge">{{Contador7}}</span></li>
+                        <li class="list-group-item"> Aprobados con "8" : <span class="badge">{{Contador8}}</span></li>
+                        <li class="list-group-item"> Aprobados con "9" : <span class="badge">{{Contador9}}</span></li>
+                        <li class="list-group-item"> Aprobados con "10" : <span class="badge">{{Contador10}}</span></li>
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+
