@@ -11,7 +11,7 @@ namespace AlumnosNota.Controllers
     public class HomeController : Controller
     {
 
-        List<Alumno> Alumnos = new List<Alumno>();
+
 
 
         public IActionResult Index()

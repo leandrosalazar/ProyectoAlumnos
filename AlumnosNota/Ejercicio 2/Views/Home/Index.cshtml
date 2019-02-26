@@ -1,0 +1,137 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div id="app">
+    <div class="row">
+        <div class="col-md-5">
+            @*<div class="input-group">*@
+                <label>Nombre</label>
+                <input class="form-control" type="text" v-on:keyup.enter="agregarNombre()" placeholder="Tu nombre"
+                       maxlength="20" required v-model="Nombre" />
+
+
+                
+
+            @*</div>*@
+
+
+
+        </div>
+        <div class="col-md-2">
+            <button id="Enviar" class="btn btn-primary pull-right" style="margin-top:1.75em"
+                    :disabled="!Nombre" v-on:click="agregarNombre();">
+                Agregar
+            </button>
+        </div>
+    </div>
+
+    <br />
+    
+    <div v-if="p_error!=='' " class="alert alert-danger col-md-6">
+
+        {{p_error}}
+
+
+
+    </div>
+    <div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Nombre Invertido</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="item in Nombres">
+                    <td>{{item}}</td>
+                    <td>{{InvertirCadena(item)}}</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+        <br />
+        <h3>Empiezan con Vocal Ascendente :</h3>
+        <br />
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="item in c_vocales">
+                    <td>{{item}}</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+        <br />
+        <h3>Empiezan con Consonantes Ascendente :</h3>
+        <br />
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="item in c_consonantes">
+                    <td>{{item}}</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        <br />
+        <h3>Empiezan con Vocal Descendente :</h3>
+        <br />
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="item in c_vocales.reverse()">
+                    <td>{{item}}</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+        <br />
+        <h3>Empiezan con Consonantes Descendente :</h3>
+        <br />
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="item in c_consonantes.reverse()">
+                    <td>{{item}}</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        
+
+    </div>
+
+</div>
+

@@ -1,0 +1,64 @@
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.deps.json
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.runtimeconfig.json
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.runtimeconfig.dev.json
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.dll
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.pdb
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.Views.dll
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.Views.pdb
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorAssemblyInfo.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorAssemblyInfo.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.AssemblyInfo.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.TagHelpers.input.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.TagHelpers.output.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorCoreGenerate.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorTargetAssemblyInfo.cache
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorTargetAssemblyInfo.cs
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.Views.pdb
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.dll
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.pdb
+C:\Users\GLORIA SUS\source\repos\Ejercicio 2\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.csproj.CopyComplete
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.deps.json
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.runtimeconfig.json
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.runtimeconfig.dev.json
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.dll
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.pdb
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.Views.dll
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\bin\Debug\netcoreapp2.1\Ejercicio 2.Views.pdb
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.csprojAssemblyReference.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorAssemblyInfo.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorAssemblyInfo.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.AssemblyInfo.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.TagHelpers.input.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.TagHelpers.output.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorCoreGenerate.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorTargetAssemblyInfo.cache
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.RazorTargetAssemblyInfo.cs
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.Views.pdb
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.dll
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.pdb
+C:\Users\GLORIA SUS\Desktop\Nueva carpeta\AlumnosNota\Ejercicio 2\obj\Debug\netcoreapp2.1\Ejercicio 2.csproj.CopyComplete

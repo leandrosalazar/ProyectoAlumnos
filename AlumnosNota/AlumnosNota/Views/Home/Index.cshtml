@@ -9,7 +9,7 @@
                 <label>Nombre</label>
 
                 <input class="form-control" type="text" placeholder="Tu nombre"
-                       minlength="5" maxlength="20" required v-model="calificacion.nombre" />
+                       minlength="5" maxlength="20" required v-model="Nombre" />
             </div>
 
 
@@ -26,7 +26,7 @@
         <div class="col-md-2">
 
             <button id="Enviar" style="margin-top:1.75em" class="btn btn-warning pull-right"
-                    :disabled="!calificacion.nombre || !calificacion.nota" v-on:click="agregarcalificacion();">
+                    :disabled="!Nombre" v-on:click="agregarcalificacion();">
                 Agregar
             </button>
 
